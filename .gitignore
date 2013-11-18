@@ -27,3 +27,9 @@ proguard.cfg
 
 #OSX
 .DS_Store
+
+# Android StudiO
+build/
+.gradle/
+
+
